@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TicTakTok1
+- 👀 I’m interested in Discord Bots
+- 🌱 I’m currently learning JS, CSS, HTML, C#
+- 📫 Reach me through Discord: TickerDev#5975
