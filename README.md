@@ -1,8 +1,8 @@
 # 💫 About Me:
 - 👋 Hi, I’m @TicTakTok1
-- 👀 I’m interested in Discord Bots
-- 🌱 I’m currently learning JS, CSS, HTML, C#
-- 📫 Reach me through Discord: Ticker#5975
+- 👀 I’m interested in Cyber Security, and databases
+- 🌱 I’m currently learning C++, C#, Java, SQL.
+- 📫 Reach out on Discord: Ticker#5975
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/470957190069616647)](https://discord.com/users/470957190069616647)
 
