@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @TicTakTok1
+- 👋 Hi, I’m @TickerDev
 - 👀 I’m interested in Cyber Security, and databases
 - 🌱 I’m currently learning C++, C#, Java, SQL.
 - 📫 Reach out on Discord: Ticker#5975
