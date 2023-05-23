@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @TickerDev
+- 👋 Hi, I’m ![@TickerDev](https://github.com/TickerDev)
 - 👀 I’m interested in Cyber Security, and databases
 - 🌱 I’m currently learning C++, C#, Java, SQL.
 - 📫 Reach out on Discord: Ticker#5975
