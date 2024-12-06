@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning C++, C#, Java, SQL.
 - 📫 Reach out on Discord: Ticker#5975
 - Making my Own FiveM Framework cause why not :)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/470957190069616647)](https://discord.com/users/470957190069616647)
 
 # 💻 Tech Stack:
